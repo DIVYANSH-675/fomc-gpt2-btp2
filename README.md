@@ -1,6 +1,6 @@
 # 🧠 GPT-2 FOMC Text Generator
 
-This is a project where we teach a LLM (GPT-2) to write like the US Federal Reserve! 
+This is a project where we fine-tune a LLM (GPT-2) to write like the US Federal Reserve! 
 
 ## 📚 What is this project?
 
